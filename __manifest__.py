@@ -2,7 +2,7 @@
 
     'name': 'print_direct',
     'version': '1.0',
-    'author': 'Ahmed bahgat',
+    'author': 'Ahmed bahgat zaki wahib',
     'category': 'Accounting',
     'depends': ['base', 'account'],
     'data': [
